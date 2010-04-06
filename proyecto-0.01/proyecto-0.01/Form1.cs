@@ -26,14 +26,14 @@ namespace proyecto_0._01
             if (comboBox1.Text == "Apagar" && hora.ToShortTimeString() == DateTime.Now.ToShortTimeString())
             {
                  System.Diagnostics.Process.Start("shutdown.exe", "-s -f -t 00");
-                //textBox1.Text = "apagar";
+               
                 
 
             }
             else if (comboBox1.Text == "Reiniciar" && hora.ToShortTimeString() == DateTime.Now.ToShortTimeString())
             {
                 System.Diagnostics.Process.Start("shutdown.exe", "-r -f -t 00");
-                //textBox1.Text = "Reiniciar";
+              
                
 
             }
@@ -41,7 +41,7 @@ namespace proyecto_0._01
             else if (comboBox1.Text == "Hibernar" && hora.ToShortTimeString() == DateTime.Now.ToShortTimeString())
             {
                 System.Diagnostics.Process.Start("rundll32.exe", "PowrProf.dll SetSuspendState Hibernate");
-                //textBox1.Text = "Hibernar";
+               
             }
         }
 
@@ -70,19 +70,19 @@ namespace proyecto_0._01
         private void pictureBox1_Click(object sender, EventArgs e)
         {
             System.Diagnostics.Process.Start("shutdown.exe", "-r -f -t 00");
-            //textBox1.Text = "Reiniciar";
+           
         }
 
         private void pictureBox2_Click(object sender, EventArgs e)
         {
              System.Diagnostics.Process.Start("shutdown.exe", "-s -f -t 00");
-            //textBox1.Text = "apagar";
+           
         }
 
         private void pictureBox3_Click(object sender, EventArgs e)
         {
             System.Diagnostics.Process.Start("rundll32.exe", "PowrProf.dll SetSuspendState Hibernate");
-            //textBox1.Text = "Hibernar";
+           
         }
 
 
