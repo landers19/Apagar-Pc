@@ -1,0 +1,48 @@
+H:\proyecto-0.01\proyecto-0.01\bin\Debug\proyecto-0.01.exe
+H:\proyecto-0.01\proyecto-0.01\bin\Debug\proyecto-0.01.pdb
+H:\proyecto-0.01\proyecto-0.01\obj\Debug\ResolveAssemblyReference.cache
+H:\proyecto-0.01\proyecto-0.01\obj\Debug\proyecto_0._01.Form1.resources
+H:\proyecto-0.01\proyecto-0.01\obj\Debug\proyecto_0._01.Properties.Resources.resources
+H:\proyecto-0.01\proyecto-0.01\obj\Debug\proyecto-0.01.csproj.GenerateResource.Cache
+H:\proyecto-0.01\proyecto-0.01\obj\Debug\proyecto-0.01.exe
+H:\proyecto-0.01\proyecto-0.01\obj\Debug\proyecto-0.01.pdb
+H:\sistemas trabajo\proyecto-0.01\proyecto-0.01\obj\Debug\proyecto-0.01.exe
+H:\sistemas trabajo\proyecto-0.01\proyecto-0.01\obj\Debug\proyecto-0.01.pdb
+H:\sistemas trabajo\proyecto-0.01\proyecto-0.01\obj\Debug\ResolveAssemblyReference.cache
+H:\sistemas trabajo\proyecto-0.01\proyecto-0.01\obj\Debug\proyecto_0._01.Form1.resources
+H:\sistemas trabajo\proyecto-0.01\proyecto-0.01\obj\Debug\proyecto_0._01.Properties.Resources.resources
+H:\sistemas trabajo\proyecto-0.01\proyecto-0.01\obj\Debug\proyecto-0.01.csproj.GenerateResource.Cache
+H:\sistemas trabajo\proyecto-0.01\proyecto-0.01\bin\Debug\proyecto-0.01.exe
+H:\sistemas trabajo\proyecto-0.01\proyecto-0.01\bin\Debug\proyecto-0.01.pdb
+M:\sistemas trabajo\proyecto-0.01\proyecto-0.01\obj\Debug\proyecto-0.01.exe
+M:\sistemas trabajo\proyecto-0.01\proyecto-0.01\obj\Debug\proyecto-0.01.pdb
+M:\sistemas trabajo\proyecto-0.01\proyecto-0.01\bin\Debug\proyecto-0.01.exe
+M:\sistemas trabajo\proyecto-0.01\proyecto-0.01\bin\Debug\proyecto-0.01.pdb
+M:\sistemas trabajo\proyecto-0.01\proyecto-0.01\obj\Debug\ResolveAssemblyReference.cache
+M:\sistemas trabajo\proyecto-0.01\proyecto-0.01\obj\Debug\proyecto_0._01.Form1.resources
+M:\sistemas trabajo\proyecto-0.01\proyecto-0.01\obj\Debug\proyecto_0._01.Properties.Resources.resources
+M:\sistemas trabajo\proyecto-0.01\proyecto-0.01\obj\Debug\proyecto-0.01.csproj.GenerateResource.Cache
+C:\Documents and Settings\Doom Landers\Mis documentos\trabajos landers\sistemas trabajo\proyecto-0.01\proyecto-0.01\obj\Debug\proyecto-0.01.exe
+C:\Documents and Settings\Doom Landers\Mis documentos\trabajos landers\sistemas trabajo\proyecto-0.01\proyecto-0.01\obj\Debug\proyecto-0.01.pdb
+C:\Documents and Settings\Doom Landers\Mis documentos\trabajos landers\sistemas trabajo\proyecto-0.01\proyecto-0.01\bin\Debug\proyecto-0.01.exe
+C:\Documents and Settings\Doom Landers\Mis documentos\trabajos landers\sistemas trabajo\proyecto-0.01\proyecto-0.01\bin\Debug\proyecto-0.01.pdb
+C:\Documents and Settings\Doom Landers\Mis documentos\trabajos landers\sistemas trabajo\proyecto-0.01\proyecto-0.01\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Doom Landers\Mis documentos\trabajos landers\sistemas trabajo\proyecto-0.01\proyecto-0.01\obj\Debug\proyecto_0._01.Form1.resources
+C:\Documents and Settings\Doom Landers\Mis documentos\trabajos landers\sistemas trabajo\proyecto-0.01\proyecto-0.01\obj\Debug\proyecto_0._01.Properties.Resources.resources
+C:\Documents and Settings\Doom Landers\Mis documentos\trabajos landers\sistemas trabajo\proyecto-0.01\proyecto-0.01\obj\Debug\proyecto-0.01.csproj.GenerateResource.Cache
+I:\sistemas trabajo\proyecto-0.01\proyecto-0.01\obj\Debug\proyecto-0.01.exe
+I:\sistemas trabajo\proyecto-0.01\proyecto-0.01\obj\Debug\proyecto-0.01.pdb
+I:\sistemas trabajo\proyecto-0.01\proyecto-0.01\bin\Debug\proyecto-0.01.exe
+I:\sistemas trabajo\proyecto-0.01\proyecto-0.01\bin\Debug\proyecto-0.01.pdb
+I:\sistemas trabajo\proyecto-0.01\proyecto-0.01\obj\Debug\ResolveAssemblyReference.cache
+I:\sistemas trabajo\proyecto-0.01\proyecto-0.01\obj\Debug\proyecto_0._01.Form1.resources
+I:\sistemas trabajo\proyecto-0.01\proyecto-0.01\obj\Debug\proyecto_0._01.Properties.Resources.resources
+I:\sistemas trabajo\proyecto-0.01\proyecto-0.01\obj\Debug\proyecto-0.01.csproj.GenerateResource.Cache
+E:\sistemas trabajo\proyecto-0.01\proyecto-0.01\obj\Debug\proyecto-0.01.exe
+E:\sistemas trabajo\proyecto-0.01\proyecto-0.01\obj\Debug\proyecto-0.01.pdb
+E:\sistemas trabajo\proyecto-0.01\proyecto-0.01\bin\Debug\proyecto-0.01.exe
+E:\sistemas trabajo\proyecto-0.01\proyecto-0.01\bin\Debug\proyecto-0.01.pdb
+E:\sistemas trabajo\proyecto-0.01\proyecto-0.01\obj\Debug\ResolveAssemblyReference.cache
+E:\sistemas trabajo\proyecto-0.01\proyecto-0.01\obj\Debug\proyecto_0._01.Form1.resources
+E:\sistemas trabajo\proyecto-0.01\proyecto-0.01\obj\Debug\proyecto_0._01.Properties.Resources.resources
+E:\sistemas trabajo\proyecto-0.01\proyecto-0.01\obj\Debug\proyecto-0.01.csproj.GenerateResource.Cache
