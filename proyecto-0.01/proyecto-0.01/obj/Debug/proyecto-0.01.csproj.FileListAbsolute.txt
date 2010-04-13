@@ -46,3 +46,11 @@ E:\sistemas trabajo\proyecto-0.01\proyecto-0.01\obj\Debug\ResolveAssemblyReferen
 E:\sistemas trabajo\proyecto-0.01\proyecto-0.01\obj\Debug\proyecto_0._01.Form1.resources
 E:\sistemas trabajo\proyecto-0.01\proyecto-0.01\obj\Debug\proyecto_0._01.Properties.Resources.resources
 E:\sistemas trabajo\proyecto-0.01\proyecto-0.01\obj\Debug\proyecto-0.01.csproj.GenerateResource.Cache
+F:\Documents and Settings\Administrator\Desktop\proyecto\Apagar-Pc\proyecto-0.01\proyecto-0.01\obj\Debug\proyecto-0.01.exe
+F:\Documents and Settings\Administrator\Desktop\proyecto\Apagar-Pc\proyecto-0.01\proyecto-0.01\obj\Debug\proyecto-0.01.pdb
+F:\Documents and Settings\Administrator\Desktop\proyecto\Apagar-Pc\proyecto-0.01\proyecto-0.01\bin\Debug\proyecto-0.01.exe
+F:\Documents and Settings\Administrator\Desktop\proyecto\Apagar-Pc\proyecto-0.01\proyecto-0.01\bin\Debug\proyecto-0.01.pdb
+F:\Documents and Settings\Administrator\Desktop\proyecto\Apagar-Pc\proyecto-0.01\proyecto-0.01\obj\Debug\ResolveAssemblyReference.cache
+F:\Documents and Settings\Administrator\Desktop\proyecto\Apagar-Pc\proyecto-0.01\proyecto-0.01\obj\Debug\proyecto_0._01.Form1.resources
+F:\Documents and Settings\Administrator\Desktop\proyecto\Apagar-Pc\proyecto-0.01\proyecto-0.01\obj\Debug\proyecto_0._01.Properties.Resources.resources
+F:\Documents and Settings\Administrator\Desktop\proyecto\Apagar-Pc\proyecto-0.01\proyecto-0.01\obj\Debug\proyecto-0.01.csproj.GenerateResource.Cache

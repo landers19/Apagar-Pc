@@ -33,7 +33,7 @@ namespace proyecto_0._01
             else if (comboBox1.Text == "Reiniciar" && hora.ToShortTimeString() == DateTime.Now.ToShortTimeString())
             {
                 System.Diagnostics.Process.Start("shutdown.exe", "-r -f -t 00");
-              
+                           
                
 
             }
@@ -53,6 +53,12 @@ namespace proyecto_0._01
 
         private void button1_Click_1(object sender, EventArgs e)
         {
+            if (monthCalendar1.SelectionRange.Start < monthCalendar1.TodayDate )
+            {
+                MessageBox.Show("fecha no valida");
+                textBox1.Text = "00:00";
+
+            }
             hora = Convert.ToDateTime(textBox1.Text);
         }
 
@@ -84,7 +90,6 @@ namespace proyecto_0._01
             System.Diagnostics.Process.Start("rundll32.exe", "PowrProf.dll SetSuspendState Hibernate");
            
         }
-
 
 
 
